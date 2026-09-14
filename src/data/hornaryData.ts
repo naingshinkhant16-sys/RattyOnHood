@@ -1,10 +1,10 @@
 import { HornaryMasterpiece } from '../types';
 
 // Example image import from src/assets/images:
-import lot1SampleImg from '../assets/images/Caominhweb3.PNG';
-import lot2SampleImg from '../assets/images/Meek.PNG';
-import lot3SampleImg from '../assets/images/HOldsats.PNG';
-import lot4SampleImg from '../assets/images/Leomaxi.PNG';
+import lot1SampleImg from '../assets/images/Caominhweb3.png';
+import lot2SampleImg from '../assets/images/Meek.png';
+import lot3SampleImg from '../assets/images/HOldsats.png';
+import lot4SampleImg from '../assets/images/Leomaxi.png';
 
 /**
  * HORNARY GALLERY - MASTERPIECE ART VAULT (FOR SPECIAL BUYERS)
