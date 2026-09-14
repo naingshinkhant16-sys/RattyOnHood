@@ -1,0 +1,7 @@
+{
+  "name": "The RATTY Journey",
+  "description": "RATTY is built around art first — with a collector experience that grows beyond the mint. A curated collection of 4,444 hand-drawn artworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
