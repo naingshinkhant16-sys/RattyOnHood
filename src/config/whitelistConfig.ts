@@ -15,7 +15,7 @@ export const X_FOLLOW_URL: string = 'https://x.com/RattyOnHood';
 
 // 3. Official Pinned Announcement Post Link:
 // Insert your pinned tweet link here later.
-export const X_POST_URL: string = 'https://x.com/rattyonhood/status/2099566329221234706?s=46';
+export const X_POST_URL: string = 'https://x.com/rattyonhood/status/2099866787005546810?s=46';
 
 // 4. OpenSea Drop Configuration:
 // >>> TO UNLOCK BUTTONS: Change OPENSEA_DROP_ENABLED to true <<<
